@@ -12,7 +12,7 @@ As AI become wide-spread in our daily lives, more people would be interested in 
 
 ## How is it used?
 
-Users should first answer a short questionnaire regarding their interest, which includes short response questions for them to explain their AI ideas. The tool will analyze their interest and their current coding skill level. A set of coding exercises will then be provided that fits into user's level and helps user to gain more coding skills so that they can turn their ideas into products quickly.
+Users should first answer a short questionnaire regarding their interest, which includes free response questions for them to explain their AI ideas. The tool will analyze their interest and their current coding skill level. A set of coding exercises will then be provided that fits into user's level and helps user to gain more coding skills so that they can turn their ideas into products quickly.
 
 ## Data sources and AI methods
 
